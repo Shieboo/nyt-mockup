@@ -1,0 +1,40 @@
+body {
+  padding-left: 15px;
+}
+
+.navbar-container {
+  background: #fff;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  margin-top: 10px;
+  height: 125px;
+}
+.navbar-top {
+  background: #999;
+  display: flex;
+  flex-direction: row;
+  height: 40px;
+}
+.navbar-top-sections {
+  position: relative;
+  right: 10px;
+  border: 1px solid #000;
+  width: 125px;
+  padding: 5px 10px;
+  text-align: center;
+}
+
+.article-container {
+  background: pink;
+  height: 1500px;
+}
+.main-footer {
+  background: green;
+  height: 500px;
+}
+
+.footer {
+  background: blue;
+  height: 400px;
+}
